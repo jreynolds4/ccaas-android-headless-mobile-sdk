@@ -51,8 +51,8 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
             } else {
                 LoggingUtil.log(message = "Message Data: ${updatedPushNotification?.message}")
 
-//                CCAI.pushNotificationService?.handlePushNotification(remoteMessage.data)
-//                CCAIUI.handlePushNotification(application, updatedPushNotification)
+                CCAI.pushNotificationService?.handlePushNotification(remoteMessage.data)
+                CCAIUI.handlePushNotification(application, updatedPushNotification)
             }
 
         }
