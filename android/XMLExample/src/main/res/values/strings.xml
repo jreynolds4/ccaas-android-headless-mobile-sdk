@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XMLExample</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="contact_customer_support">Contact Customer Support</string>
+    <string name="input_menu_hint">Menu id</string>
+    <string name="please_enter_valid_menu_id">Please enter valid menu id</string>
+    <string name="failed_to_start_chat">Failed to start chat: %s</string>
+    <string name="end_chat_fail">Failed to end chat</string>
+    <string name="menu_id_from_the_queue_menu_settings">Hint: Menu id from the queue menu settings.</string>
+    <string name="chat_title_connected">Chat with %s</string>
+    <string name="chat">Chat</string>
+    <string name="back">Back</string>
+    <string name="exit_chat">Exit Chat</string>
+    <string name="connecting">Connecting</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="ending_chat">Ending Chat</string>
+    <string name="ask_end_chat">Do you want to end this chat?</string>
+    <string name="send">Send</string>
+    <string name="attach_media">Attach media</string>
+    <string name="take_photo">Take photo</string>
+    <string name="select_photo">Select photo</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="attach_photo">Attach photo</string>
+    <string name="type_message">Type message</string>
+    <string name="failed_to_refresh_messages">Failed to load messages</string>
+    <string name="dialog_notification_permission_title">"%s" Would Like to\nSend You Notifications</string>
+    <string name="dialog_notification_permission_content">Notifications may include alerts,\nsounds and icon badges. These can be configured in Settings.</string>
+    <string name="dialog_notification_off_title">Push Notification is Off</string>
+    <string name="dialog_notification_off_content">This communication feature requires push notifications. Please go to \'Settings\' and activate push notifications.</string>
+    <string name="btn_dont_allow">Don\'t Allow</string>
+    <string name="btn_allow">Allow</string>
+    <string name="btn_no_thanks">No Thanks</string>
+    <string name="btn_go_settings">Go to Settings</string>
+    <string name="open_settings_failed">Unable to open any settings page</string>
+    <string name="menu">Menu</string>
+    <string name="close">Close</string>
+</resources>

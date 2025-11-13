@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cobrowse_session_initiate_alert_title">Request Screen Share Session</string>
+    <string name="cobrowse_session_initiate_alert_message">Would you like to request a screen sharing session with the agent to help troubleshoot your issue?</string>
+    <string name="cobrowse_session_request_alert_title">Screen Share Session Request</string>
+    <string name="cobrowse_session_request_alert_message">Do you want to share your current screen with the agent?</string>
+    <string name="cobrowse_remote_access_request_alert_title">Remote Access Request</string>
+    <string name="cobrowse_remote_access_request_alert_message">The agent would like to have access to your currently shared screen to further assist you.</string>
+    <string name="cobrowse_screen_share_request_alert_title">Screen Share Request</string>
+    <string name="cobrowse_screen_share_request_alert_message">Do you want to share your full screen with the agent? The agent will not be able to control anything on the screen.</string>
+    <string name="cobrowse_session_end_alert_title">End Screen Share Session</string>
+    <string name="cobrowse_session_end_alert_message">Would you like to end the Screen Share session?</string>
+    <string name="cobrowse_session_initiate_button_title">Request Screen Share Session</string>
+    <string name="cobrowse_session_end_button_title">End Screen Share Session</string>
+    <string name="cobrowse_session_end_alert_button_yes">Yes</string>
+    <string name="cobrowse_session_end_alert_button_no">No</string>
+    <string name="cobrowse_session_initiate_alert_button_yes">Yes</string>
+    <string name="cobrowse_session_initiate_alert_button_no">No</string>
+    <string name="cobrowse_session_request_alert_button_allow">Allow</string>
+    <string name="cobrowse_session_request_alert_button_deny">Deny</string>
+    <string name="cobrowse_remote_access_request_alert_button_allow">Allow</string>
+    <string name="cobrowse_remote_access_request_alert_button_deny">Deny</string>
+    <string name="cobrowse_screen_share_request_alert_button_allow">Allow</string>
+    <string name="cobrowse_screen_share_request_alert_button_deny">Deny</string>
+    <string name="chat_notification_cobrowse_session_request_sent">Screen Share session request sent to Agent</string>
+    <string name="chat_notification_cobrowse_session_request_received">%s is requesting a Screen Share session with you</string>
+    <string name="chat_notification_cobrowse_session_started">Screen Share session started</string>
+    <string name="chat_notification_cobrowse_session_ended">Screen Share session ended</string>
+    <string name="chat_notification_cobrowse_session_failed">Screen Share session failed</string>
+    <string name="screen_share">Screen Share</string>
+</resources>
